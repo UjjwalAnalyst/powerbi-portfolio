@@ -1,107 +1,113 @@
-# powerbi-portfolio
-A collection of my Data Analytics projects built with Power BI, SQL and Excel.
+📊 Data Analytics Portfolio – Ujjwal Modgill
 
+A curated collection of my end-to-end Data Analytics projects, showcasing expertise in Power BI, SQL, Python, and Excel.
+Each project demonstrates my ability to clean data, perform exploratory analysis, write optimized queries, and build interactive dashboards that support business decision-making.
 
+👨‍💻 About Me
 
-# 📊 Data Analytics Portfolio – Ujjwal Modgill
+I am an aspiring Data Analyst skilled in:
 
-Welcome to my Data Analytics & Business Intelligence portfolio!  
-This repository highlights my hands-on projects using **Python, SQL, Power BI, and Excel**.  
-Each project focuses on extracting meaningful insights and enabling **data-driven decision making**.
+Python (Pandas, NumPy, Matplotlib)
 
----
+SQL (Joins, CTEs, Window Functions)
 
-## 👨‍💻 About Me
-Aspiring **Data Analyst** skilled in Python, SQL, Power BI, Excel, and Exploratory Data Analysis (EDA).  
-I enjoy solving business problems using data and creating interactive dashboards and analytical reports.
+Power BI (DAX, Power Query, Data Modeling)
 
-📍 India  
-🔗 LinkedIn: * www.linkedin.com/in/ujjwal-modgill-a05a71257 *  
-📧 Email: * ujju20modgill03@gmail.com *  
+Excel (Pivot Tables, Dashboarding)
 
----
+I enjoy uncovering insights from raw data, designing dashboards, and solving business problems using analytical thinking.
 
-## 📁 Projects Included
+📌 Location: India
+🔗 LinkedIn: https://www.linkedin.com/in/ujjwal-modgill-a05a71257
 
-### 1️⃣ Telco Customer Churn Analysis (Python, Jupyter Notebook)
-**Goal:** Identify key drivers of customer churn and support telecom retention strategies.  
-**Highlights:**
-- Performed EDA on customer churn dataset with Wscube Tech
-- Identified high-risk churn groups: **short-tenure, month-to-month contracts, senior citizens, and electronic check users**
-- Delivered insights to support customer retention and business growth
+📧 Email: ujju20modgill03@gmail.com
 
+📁 Projects Included
+1️⃣ Telco Customer Churn Analysis – Python
 
----
+Objective: Understand customer churn patterns to support telecom retention strategies.
+Key Work:
 
-### 2️⃣ Diwali Sales Analysis (Python, Jupyter Notebook)
-**Goal:** Analyse festive-season sales data to optimize marketing and inventory planning.  
-**Highlights:**
-- Cleaned and processed sales data
-- Identified key customer segments & top-selling products
-- Supported data-driven decisions for demand forecasting
+Cleaned and explored the dataset using Python
 
+Identified churn drivers such as short tenure, senior citizens, month-to-month contracts, and e-check users
 
----
+Presented actionable insights for reducing churn
 
-### 3️⃣ Music Store SQL Analysis (MySQL – Chinook Database)
-**Goal:** Provide insights into revenue trends for an international digital music store.  
-**Highlights:**
-- Used **JOINs, GROUP BY, aggregate functions, CTEs, window functions**
-- Analysed: top-selling artists, popular genres per country, revenue and customer value
-- Wrote 11 SQL queries to uncover actionable insights
+2️⃣ Diwali Sales Analysis – Python
 
+Objective: Analyze festive-season sales to guide marketing and inventory decisions.
+Key Work:
 
----
+Performed data cleaning and preprocessing
 
-### 4️⃣ DineEase – Restaurant Management System (Python)
-**Goal:** Automate restaurant ordering & billing system.  
-**Highlights:**
-- Enabled customers to browse menus, place orders & process payments
-- Implemented modular programming & error handling
-- Improved billing accuracy and user experience
+Identified top-performing products, customer segments, and sales trends
 
----
+Helped highlight opportunities for increasing holiday revenue
 
-### 5️⃣ HR Analytics Dashboard (Power BI)
-**Goal:** Visualize employee attrition and help HR teams take data-informed decisions.  
-**Highlights:**
-- Analysed **attrition trends, satisfaction levels, salary distribution, gender ratio**
-- Designed interactive **Power BI dashboard** with filters and drill-down capabilities
-- Delivered insights for improving retention and workforce planning
+3️⃣ Music Store Analysis – SQL (Chinook Database)
 
----
+Objective: Analyze sales, customers, and music trends for a digital music store.
+Key Work:
 
-### 6️⃣ Annual Sales Report 2024 – Vrinda Store (Excel)
-**Goal:** Evaluate yearly sales performance and guide business growth strategy for 2025.  
-**Highlights:**
-- Analysed **31,048 rows × 21 columns** of retail sales data
-- Built interactive dashboard using **Pivot Tables & Charts**
-- Identified top states, sales channels, and customer segments
+Used complex SQL (JOINs, GROUP BY, CTEs, Window Functions)
 
----
+Identified top artists, top genres, customer value, and revenue trends
 
-## 📊 Skills & Tools
+Executed 11 analytical SQL queries to derive business insights
 
-| Category | Skills |
-|--------|--------|
-| Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| Databases | MySQL, SQL Joins, Aggregations, Window Functions |
-| BI / Visualization | Power BI, Excel Dashboards |
-| Data Analysis | EDA, Data Cleaning, Feature Exploration |
-| Version Control | Git & GitHub |
+4️⃣ DineEase – Restaurant Management System (Python)
 
----
+Objective: Build an automated ordering and billing system.
+Key Work:
 
-## 🚀 What I’m Working On Next
-🔹 More Power BI dashboards  
-🔹 End-to-end analytics case studies  
-🔹 Advanced SQL + Python data projects  
+Designed a menu-based ordering workflow
 
----
+Implemented modular functions & error handling
 
-## 🤝 Connect With Me
-I am open to **internships, freelancing, and full-time data analyst opportunities.**  
-Feel free to reach out!
+Improved the accuracy and speed of billing operations
 
-📧 Email: * ujju20modgill03@gmail.com *  
-🔗 LinkedIn: * www.linkedin.com/in/ujjwal-modgill-a05a71257 *
+5️⃣ HR Analytics Dashboard – Power BI
+
+Objective: Help HR teams understand attrition patterns and workforce trends.
+Key Work:
+
+Analyzed attrition by job role, satisfaction levels, salary, and demographics
+
+Built an interactive Power BI dashboard with filters and drill-through
+
+Delivered insights for improving employee retention
+
+6️⃣ Vrinda Store Annual Sales Report 2024 – Excel
+
+Objective: Evaluate yearly sales performance and assist 2025 planning.
+Key Work:
+
+Analyzed 31,000+ rows of retail data
+
+Built an interactive dashboard using Pivot Charts
+
+Identified top states, channels, and customer segments driving sales
+
+🛠️ Skills & Tools
+Category	Skills
+Programming	Python (Pandas, NumPy, Matplotlib)
+Databases	SQL, MySQL, Joins, CTEs, Window Functions
+Visualization	Power BI (DAX, Power Query), Excel Dashboards
+Analytics	EDA, Data Cleaning, Business Insights
+Version Control	Git, GitHub
+🚀 What’s Next
+
+More Power BI dashboards
+
+End-to-end Python analytics case studies
+
+Advanced SQL analytics & performance optimization
+
+🤝 Contact
+
+I am open to internship, freelance, and full-time opportunities in Data Analytics.
+
+📧 Email: ujju20modgill03@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/ujjwal-modgill-a05a71257
